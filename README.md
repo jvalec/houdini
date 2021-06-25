@@ -1,2 +1,2 @@
-## Houdini HDA's and SETUPs
+## Houdini HDA's and SETUP files.
  
